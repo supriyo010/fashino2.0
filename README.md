@@ -14,7 +14,7 @@ Fashino T-Shirt AI is a powerful tool that allows you to create custom T-shirt d
 
 
 
-https://github.com/jaimin45/UrbanStyle-tshirt-AI/assets/78346677/69409227-9777-4a67-aa88-c271b188ae59
+https://github.com/jaimin45/Fashino-tshirt-AI/assets/78346677/69409227-9777-4a67-aa88-c271b188ae59
 
 
 
